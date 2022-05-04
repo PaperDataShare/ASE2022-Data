@@ -11,7 +11,7 @@ HBase: https://github.com/apache/hbase			Release 2.2.0
 Hive: https://github.com/apache/hive			Release 2.3.5
 
 
-*-jira-bugs.zip: a project's bug records in the issue tracking system, JIRA.
+*-jira-bugIDs.txt: a project's bug records extracted from its the issue tracking system, JIRA.
 
 *_BC_##.csv: each file lists the bug churn of each file by examining the revision history coverd by an evolution window. 
 
